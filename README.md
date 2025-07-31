@@ -47,12 +47,3 @@ tkinter (for GUI)
 
 random module
 
-
-
----
-
-📂 Project Structure
-
-📦 number-guessing-game/
- ┣ 📄 game.py              # Main game script
- ┣ 📄 README.md            # Project documentation
